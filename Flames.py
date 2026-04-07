@@ -53,3 +53,5 @@ def flames_game():
 
 # Running the FLAMES game
 flames_game()
+
+#test
